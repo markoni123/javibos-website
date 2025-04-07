@@ -64,19 +64,19 @@ export default function JAVIBOS() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {[
             {
-              src: "https://source.unsplash.com/400x250/?cleaning",
+              src: "/leistungen/reinigung.jpg",
               alt: "Gebäudereinigung",
               title: "Gebäudereinigung",
               text: "Büro-, Fenster-, Grund- und Bauendreinigung – zuverlässig und gründlich."
             },
             {
-              src: "https://source.unsplash.com/400x250/?snow-removal",
+              src: "/leistungen/schneeraeumung.jpg",
               alt: "Schneeräumung",
               title: "Schneeräumung",
               text: "Effizienter Winterdienst für Privat und Gewerbe – pünktlich & professionell."
             },
             {
-              src: "https://source.unsplash.com/400x250/?gardening",
+              src: "/leistungen/garten.jpg",
               alt: "Gartenpflege",
               title: "Gartenpflege",
               text: "Rasenpflege, Heckenschnitt, Unkrautentfernung – Ihr Garten in besten Händen."
