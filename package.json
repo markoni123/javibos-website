@@ -1,5 +1,6 @@
+
 {
-  "name": "javibos-final-live",
+  "name": "javibos-tailwind",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -7,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "autoprefixer": "^10.0.0",
     "next": "latest",
+    "postcss": "^8.0.0",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "tailwindcss": "^3.0.0"
   }
 }
