@@ -1,5 +1,5 @@
 {
-  "name": "javibos-website",
+  "name": "javibos-js",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
